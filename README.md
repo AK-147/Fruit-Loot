@@ -24,5 +24,7 @@
     To play, download all the files and folders into one common folder and launch any of the three core files through an accredited Python IDE.
     This program uses the pygame, random, and time libraries to run properly so make sure to have all of them installed on your system.
   </p>
+  <h2></h2>
+  <h3>:apple::banana::cherries: Enjoy :grapes::pear::pineapple:</h3>
 </body>
 </html>
