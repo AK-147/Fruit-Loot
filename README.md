@@ -21,7 +21,7 @@
     <li>"Fruit Loot v2.0" is an overhaul to the code structure using university-level techniques</li>
   </ul>
   <p>
-    To play, download all the files and folders into one common folder and launch any of the three core files through an accredited Python IDE.
+    To play, download all the files and folders into one common folder and run any of the three core files through an accredited Python IDE.
     This program uses the pygame, random, and time libraries to run properly so make sure to have all of them installed on your system.
   </p>
   <h2></h2>
