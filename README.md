@@ -16,9 +16,9 @@
   <h2>:grey_question: Installation Guide</h2>
   <p>There are three core .py files, each with their own versions:</p>
   <ul>
-    <li>"Fruit Loot v1.0" is the very first iteration that was handed in as the class project</li>
-    <li>"Fruit Loot v1.5" is a revision that fixed some bugs and added some features</li>
-    <li>"Fruit Loot v2.0" is an overhaul to the code structure using university-level techniques</li>
+    <li><strong>Fruit Loot v1.0</strong> is the very first iteration that was handed in as the class project</li>
+    <li><strong>Fruit Loot v1.5</strong> is a revision that fixed some bugs and added some features</li>
+    <li><strong>Fruit Loot v2.0</strong> is an overhaul to the code structure using university-level techniques</li>
   </ul>
   <p>
     To play, download all the files and folders into one common folder and run any of the three core files through an accredited Python IDE.
