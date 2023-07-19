@@ -14,7 +14,7 @@
   </ul>
 
   <h2>:grey_question: Installation Guide</h2>
-  <p>There are three core .py files, each with their own versions.</p>
+  <p>There are three core .py files, each with their own versions:</p>
   <ul>
     <li>"Fruit Loot v1.0" is the very first iteration that was handed in as the class project</li>
     <li>"Fruit Loot v1.5" is a revision that fixed some bugs and added some features</li>
